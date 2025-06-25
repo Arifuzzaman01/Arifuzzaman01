@@ -29,14 +29,54 @@ I love building modern, user-friendly, and highly interactive websites and appli
 
 ### 🛠️ Skills
 
-| HTML5 | CSS3 | JavaScript | React.js | Node.js | Express |
-|----------------------|------------------|-------------------|-------------------|---------------------|-------------------|
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) |
+### 🛠️ Skills
 
-| MongoDB | WordPress | Tailwind CSS | DaisyUI | Bootstrap |
-|-------------------|-------------------------|-----------------------|----------------------------|-----------------------------|
-| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg) | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) | ![DaisyUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) |
-                        |
+<div style="display: flex; flex-direction: column; flex-wrap: wrap; gap: 20px;">
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="48" />
+    <div>HTML5</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="48" />
+    <div>CSS3</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="48" />
+    <div>JavaScript</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="48" />
+    <div>React.js</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="48" />
+    <div>Node.js</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="48" />
+    <div>Express</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="48" />
+    <div>MongoDB</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" height="48" />
+    <div>WordPress</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="48" />
+    <div>Tailwind CSS</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="DaisyUI" height="48" />
+    <div>DaisyUI</div>
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="48" />
+    <div>Bootstrap</div>
+  </div>
+</div>
 
 ---
 
