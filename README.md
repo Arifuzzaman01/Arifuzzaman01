@@ -28,15 +28,16 @@ I love building modern, user-friendly, and highly interactive websites and appli
 ---
 
 ### 🛠️ Skills
-| Skill       | Icon |
-|--------------|------|
-| **HTML5**    | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |   | **CSS3**     | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
+### 🛠️ Skills
 
-| **JavaScript** | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |   | **React.js** | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
-
-| **Node.js**  | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) |  | **MongoDB**  | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
-
-| **WordPress**| ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg) |
+| Skill          | Icon                                                                 | Skill         | Icon                                                                |
+|----------------|----------------------------------------------------------------------|---------------|---------------------------------------------------------------------|
+| **HTML5**      | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)       | **CSS3**      | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)         |
+| **JavaScript** | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | **React.js**  | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)       |
+| **Node.js**    | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)    | **Express**   | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) |
+| **MongoDB**    | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)  | **WordPress** | ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg) |
+| **Tailwind CSS** | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) | **DaisyUI**   | ![DaisyUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)        |
+| **Bootstrap**  | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) |               |                                                                     |
 
 ---
 
