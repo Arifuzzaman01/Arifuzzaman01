@@ -62,7 +62,7 @@ I love building modern, user-friendly, and highly interactive websites and appli
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arifuzzaman01&theme=tokyonight)
 
 ---
 
