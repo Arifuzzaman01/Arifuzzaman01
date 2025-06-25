@@ -29,9 +29,12 @@ I love building modern, user-friendly, and highly interactive websites and appli
 
 ### 🛠️ Skills
 
-| HTML5 | CSS3 | JavaScript | React.js | Node.js | Express || MongoDB | WordPress | Tailwind CSS | DaisyUI | Bootstrap |
-|-------|------|------------|----------|---------|---------||---------|-----------|--------------|--------|-----------|
+| HTML5 | CSS3 | JavaScript | React.js | Node.js | Express |
+|----------------------|------------------|-------------------|-------------------|---------------------|-------------------|
 | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) |
+
+| MongoDB | WordPress | Tailwind CSS | DaisyUI | Bootstrap |
+|-------------------|-------------------------|-----------------------|----------------------------|-----------------------------|
 | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg) | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) | ![DaisyUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) |
                         |
 
