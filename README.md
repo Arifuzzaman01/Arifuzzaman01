@@ -21,6 +21,12 @@ I love building modern, user-friendly, and highly interactive websites and appli
 
 ---
 
+
+### 🌐 Social Links
+- [Facebook](https://web.facebook.com/arifuzzaman.arif.98096721/?_rdc=2&_rdr#)
+- [LinkedIn](https://www.linkedin.com/in/arifuzzaman01/)
+- [Portfolio](https://resilient-figolla-e6ef8e.netlify.app/)
+---
 ### ⚡️ Current Focus
 - 🌱 Currently exploring **Next.js** and its ecosystem
 - 💻 Working on a **tourism website** for a local client
@@ -50,11 +56,7 @@ I love building modern, user-friendly, and highly interactive websites and appli
 
 
 
----
 
-### 🌐 Social Links
-- [Facebook](https://web.facebook.com/arifuzzaman.arif.98096721/?_rdc=2&_rdr#)
-- [LinkedIn](https://www.linkedin.com/in/arifuzzaman01/)
 
 ---
 
