@@ -9,9 +9,9 @@
 
 ### 📍 Location
 Postcode: 8700, District: Barguna, Bangladesh  
-Email: [arifuzzamanar29@gmail.com](mailto:youremail@example.com)
-Mobile No : +880 1339313060
-WhatsApp : +880 1853684161
+Email: [arifuzzamanar29@gmail.com](mailto:youremail@example.com), <br/>
+Mobile No : +880 1339313060,  <br/>
+WhatsApp : +880 1853684161  <br/>
 
 ---
 
