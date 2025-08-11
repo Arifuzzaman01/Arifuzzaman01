@@ -54,6 +54,7 @@ I love building modern, user-friendly, and highly interactive websites and appli
 
 ### 🌐 Social Links
 - [Facebook](https://web.facebook.com/arifuzzaman.arif.98096721/?_rdc=2&_rdr#)
+- [LinkedIn](https://www.linkedin.com/in/arifuzzaman01/)
 
 ---
 
