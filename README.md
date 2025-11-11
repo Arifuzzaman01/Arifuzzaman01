@@ -3,7 +3,7 @@
 ## 👋 This is  Md Arifuzzaman Rakib
 ### Front-end Developer | React.js | Node.js | MongoDB | WordPress
 
-![Banner]([https://i.ibb.co/JwZjwfHD/MEIMG20221019102822-01.jpg](https://res.cloudinary.com/djgzuyzrv/image/upload/v1762848942/Make_your_README_1_k4ysgl.png))
+![Banner]([https://res.cloudinary.com/djgzuyzrv/image/upload/v1762848942/Make_your_README_1_k4ysgl.png])
 
 ---
 
