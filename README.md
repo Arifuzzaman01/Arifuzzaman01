@@ -1,23 +1,19 @@
-
-
-
-
 <p align="center">
   <img src="https://res.cloudinary.com/djgzuyzrv/image/upload/v1762848942/Make_your_README_1_k4ysgl.png" alt="Banner" width="100%" />
 </p>
 
 ---
-### Web Developer Developer | React.js | Node.js | MongoDB | Next.js | WordPress
+### Web Developer  | React.js | Node.js | MongoDB | Next.js | WordPress
 ### 📍 Location
 Postcode: 8700, District: Barguna, Bangladesh  
-Email: [arifuzzamanar29@gmail.com](mailto:youremail@example.com), <br/>
+Email: [arifuzzamanar29@gmail.com](mailto:arifuzzamanar29@gmail.com), <br/>
 Mobile No : +880 1339313060,  <br/>
 WhatsApp : +880 1853684161  <br/>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate Front-end Developer specializing in **MJavaScript** **React.js**, **Node.js**, **MongoDB**, and **WordPress**.  
+I am a passionate Front-end Developer specializing in **JavaScript** **React.js**, **Node.js**, **MongoDB**,**Express.js**, **Next.js** and **WordPress**.  
 I love building modern, user-friendly, and highly interactive websites and applications.
 
 ---
@@ -25,8 +21,8 @@ I love building modern, user-friendly, and highly interactive websites and appli
 
 ### 🌐 Social Links
 - [Facebook](https://web.facebook.com/arifuzzaman.arif.98096721/?_rdc=2&_rdr#)
-- [LinkedIn](https://www.linkedin.com/in/arifuzzaman01/)
-- [Portfolio](https://resilient-figolla-e6ef8e.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/arifuzzaman02/)
+- [Portfolio](https://arif-six.vercel.app/)
 ---
 ### ⚡️ Current Focus
 - 🌱 Currently exploring **Next.js** and its ecosystem
