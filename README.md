@@ -5,9 +5,9 @@
 <p align="center">
   <img src="https://res.cloudinary.com/djgzuyzrv/image/upload/v1762848942/Make_your_README_1_k4ysgl.png" alt="Banner" width="100%" />
 </p>
-### Web Developer Developer | React.js | Node.js | MongoDB | WordPress
----
 
+---
+### Web Developer Developer | React.js | Node.js | MongoDB | Next.js | WordPress
 ### 📍 Location
 Postcode: 8700, District: Barguna, Bangladesh  
 Email: [arifuzzamanar29@gmail.com](mailto:youremail@example.com), <br/>
