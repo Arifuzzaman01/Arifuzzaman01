@@ -1,13 +1,11 @@
-## Hi there 👋
 
-## 👋 This is  Md Arifuzzaman Rakib
-### Front-end Developer | React.js | Node.js | MongoDB | WordPress
+
 
 
 <p align="center">
   <img src="https://res.cloudinary.com/djgzuyzrv/image/upload/v1762848942/Make_your_README_1_k4ysgl.png" alt="Banner" width="100%" />
 </p>
-
+### Web Developer Developer | React.js | Node.js | MongoDB | WordPress
 ---
 
 ### 📍 Location
