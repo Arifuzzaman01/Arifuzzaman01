@@ -3,17 +3,17 @@
 </p>
 
 ---
-### Web Developer  | React.js | Node.js | MongoDB | Next.js | WordPress
+### Web Developer  | React.js | Node.js | Express.js | MongoDB | Next.js | WordPress
 ### 📍 Location
 Postcode: 8700, District: Barguna, Bangladesh  
 Email: [arifuzzamanar29@gmail.com](mailto:arifuzzamanar29@gmail.com), <br/>
-Mobile No : +880 1339313060,  <br/>
-WhatsApp : +880 1853684161  <br/>
+Mobile No : +880 1339313060 (WhatsApp)  <br/>
+
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate Front-end Developer specializing in **JavaScript** **React.js**, **Node.js**, **MongoDB**,**Express.js**, **Next.js** and **WordPress**.  
+I am a passionate Front-end Developer specializing in **JavaScript** **React.js**, **Node.js**, **MongoDB**, **Express.js**, **Next.js** and **WordPress**.  
 I love building modern, user-friendly, and highly interactive websites and applications.
 
 ---
