@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/djgzuyzrv/image/upload/v1762848942/Make_your_README_1_k4ysgl.png" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/djgzuyzrv/image/upload/v1772084942/Group_1_wbtsmo.png" alt="Banner" width="100%" />
 </p>
 
 ---
